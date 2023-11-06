@@ -1,0 +1,27 @@
+# ninja log v5
+1	1013	1648086242	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_kernel.o	b5586308a59a9cdb
+1	8341	1648086250	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_cpu.o	16b1025db802251d
+1	8786	1648086250	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms.o	361f7a73c78cd3b1
+1	11930	1648086253	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_api.o	6923608fd7955ede
+1	442	1648086254	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d_kernel.o	3aa70f86cba90280
+1	11633	1648086265	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d.o	d73520dabdfa9b50
+0	371	1648086266	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d_kernel.o	e68132f46fd7881f
+0	11321	1648086277	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d.o	642cc946d51c8b00
+2	4334	1648086282	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling.o	bac8f6512ec4e3c6
+2	4648	1648086282	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points.o	e6c1f5bfe78ff878
+2	4823	1648086282	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate.o	6d6c4d4d2266acd9
+1	5808	1648086283	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query.o	9ed27eb20efddaaa
+3	10662	1648086288	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate_gpu.o	2f25d4f6e16b7221
+1	10663	1648086288	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query_gpu.o	51bcd30eb35aee8b
+2	10726	1648086288	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points_gpu.o	1df882417cd89d54
+2	11052	1648086289	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling_gpu.o	4762df550e77b1d1
+1	14275	1648086292	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/pointnet2_api.o	ae0e172b0f4080ce
+3	3991	1648086296	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate.o	4dd96622f64cf85e
+3	4005	1648086296	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points.o	6d9dc09ea19f6b53
+3	4098	1648086296	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling.o	108bd94f483e6ee7
+2	5680	1648086298	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query.o	efc85c80dc7c4ac0
+3	10589	1648086303	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate_gpu.o	54518388402f7832
+2	10838	1648086303	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query_gpu.o	2b067db730564c4b
+4	11167	1648086303	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling_gpu.o	dc848ed8552391ad
+3	11697	1648086304	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points_gpu.o	7a82296096610dda
+2	13309	1648086306	/media/hqu/A17968E7B11F4F22/PycharmProjects/EPNet/pa-aug/pa-aug/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/pointnet2_api.o	f0237a3e0dba22b7
